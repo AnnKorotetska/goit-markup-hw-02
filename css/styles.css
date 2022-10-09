@@ -52,7 +52,7 @@ body {
   color: inherit;
 }
 
-.active {
+.current {
   color: var(--accent-color);
 }
 
